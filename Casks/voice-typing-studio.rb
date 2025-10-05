@@ -1,8 +1,8 @@
 cask "voice-typing-studio" do
-  version "1.1.1"
-  sha256 "0e1b90e0866eefacc5b74dfedc09bac96fc7ab922671a1eed8b6c3b1a57ef056"
+  version "1.1.2"
+  sha256 "39cfad51f5a7c121369c303abf52f5069b4b9c1fa54217257ffa0273e3289144"
 
-  url "https://github.com/j05u3/VTS/releases/download/v1.1.1/VTS-#{version}-Universal.dmg"
+  url "https://github.com/j05u3/VTS/releases/download/v1.1.2/VTS-#{version}-Universal.dmg"
   name "VTS"
   name "Voice Typing Studio"
   desc "Open-source macOS dictation replacement with AI-powered transcription"
